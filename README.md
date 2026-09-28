@@ -87,22 +87,14 @@
 ### 📊 Estatísticas (GitHub Stats)
 
 <div align="center">
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TheoEnderson&theme=dracula&margin-w=15&margin-h=15&no-frame=true&column=6&no-bg=true" alt="Trophies" />
-  </a>
-  <br><br>
-
-  <!-- Streak Stats -->
+  <!-- Streak Stats (Frequência de Commits) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheoEnderson&theme=dracula&hide_border=true&background=282a36" width="98%" />
   <br><br>
-  
-  <!-- Overall Stats and Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TheoEnderson&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=282a36" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoEnderson&layout=donut&theme=dracula&hide_border=true&bg_color=282a36" width="48%" />
-</div>
 
-<br>
+  <!-- Gráfico de Contribuições + Estatísticas Gerais -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheoEnderson&theme=dracula" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheoEnderson&theme=dracula" width="48%" />
+</div>
 
 ### 🐍 Contribuições (Snake Graph)
 
