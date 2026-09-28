@@ -40,13 +40,14 @@ Estudante de Engenharia de Computação com foco em **sistemas de baixo nível (
 
 ---
 
-### 📊 Estatísticas e Contacto
+### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheoEnderson&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoEnderson&layout=compact&theme=dracula&hide_border=true" height="150" alt="Linguagens mais usadas"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheoEnderson&theme=dracula" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheoEnderson&theme=dracula" width="48%">
 </div>
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/théo-enderson-a7786431a)
+
