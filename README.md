@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h3 align="center">Olá, eu sou o Théo Enderson! 👋</h3>
+<h3 align="center">Olá, eu sou Théo Enderson! 👋</h3>
 
 <div align="center">
   <p>
