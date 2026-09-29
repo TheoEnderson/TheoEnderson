@@ -1,15 +1,15 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Engenharia+de+Computação;Sistemas+Embarcados+%26+IoT;Visão+Computacional;Baixo+Nível&color=bd93f9" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=750&height=70&duration=4000&lines=Engenharia+de+Computação;Sistemas+Embarcados+%26+IoT;Engenharia+de+Dados+%26+ETL;Visão+Computacional;Baixo+Nível+(C%2FC%2B%2B)&color=bd93f9" alt="Typing SVG" />
   </a>
 </div>
 
-<h3 align="center">Olá, eu sou Théo Enderson! 👋</h3>
+<h3 align="center">Olá, eu sou o Théo Enderson! 👋</h3>
 
 <div align="center">
   <p>
     Graduando em <b>Engenharia de Computação pela UFS</b> (Universidade Federal de Sergipe).<br>
-    Desenvolvedor com foco em <b>sistemas de baixo nível (C/C++)</b>, <b>arquitetura de computadores</b>, <b>visão computacional aplicada</b> e <b>Sistemas Embarcados / IoT</b>. Busco unir rigor matemático, desempenho e aplicação prática na resolução de desafios de engenharia.
+    Desenvolvedor focado em <b>sistemas de baixo nível (C/C++)</b>, <b>arquitetura de computadores</b>, <b>visão computacional aplicada</b>, <b>Sistemas Embarcados / IoT</b> e <b>Engenharia de Dados</b>. Busco unir rigor matemático, desempenho e aplicação prática na resolução de desafios complexos de engenharia.
   </p>
 </div>
 
@@ -20,9 +20,10 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%"><b>Linguagens & Core</b></td>
-      <td align="center" width="33%"><b>Sistemas Embarcados & IoT</b></td>
-      <td align="center" width="33%"><b>Ferramentas & SO</b></td>
+      <td align="center" width="25%"><b>Linguagens & Core</b></td>
+      <td align="center" width="25%"><b>Sistemas Embarcados & IoT</b></td>
+      <td align="center" width="25%"><b>Dados & Bancos</b></td>
+      <td align="center" width="25%"><b>Ferramentas & DevOps</b></td>
     </tr>
     <tr>
       <td align="center">
@@ -39,6 +40,14 @@
         <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" /> <br><br>
         <img src="https://img.shields.io/badge/FreeRTOS-20734E?style=for-the-badge&logo=rtos&logoColor=white" /> <br><br>
         <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+        <br><br>
+      </td>
+      <td align="center">
+        <br>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <br><br>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <br><br>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <br><br>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
         <br><br>
       </td>
       <td align="center">
@@ -71,10 +80,16 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h4 align="center"><a href="https://github.com/TheoEnderson/projeto-sensor">🔐 Sistema de Presença Biométrico</a></h4>
+        <h4 align="center"><a href="https://github.com/TheoEnderson/projeto-sensor">🔐 Sistema de Presença Biométrico (IoT)</a></h4>
         <p align="center">Controle de acesso físico automatizado com ESP32 e sensor biométrico. Implementa arquitetura resiliente com memória Flash (LittleFS) e envio de dados via MQTT/HTTP para nuvem (Supabase e Google Sheets).</p>
       </td>
       <td width="50%" valign="top">
+        <h4 align="center"><a href="https://github.com/TheoEnderson/Engenharia-de-dados">📊 Pipeline de Engenharia de Dados</a></h4>
+        <p align="center">Arquitetura de dados ponta a ponta: modelagem relacional OLTP (PostgreSQL), migração NoSQL (MongoDB) e estruturação de Data Warehouse dimensional (OLAP) com pipelines de ETL em Python/Pandas.</p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" width="100%" valign="top">
         <h4 align="center"><a href="https://github.com/TheoEnderson/estrutura-de-dados">🌳 Estruturas de Dados em C</a></h4>
         <p align="center">Implementações modulares em C abordando algoritmos e estruturas essenciais: árvores binárias, tabelas hash, filas, pilhas, grafos e análise assintótica de complexidade.</p>
       </td>
@@ -96,6 +111,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheoEnderson&theme=dracula" width="48%" />
 </div>
 
+<br>
+
 ### 🐍 Contribuições (Snake Graph)
 
 <div align="center">
@@ -113,8 +130,5 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/théo-enderson-a7786431a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:endersontheo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
