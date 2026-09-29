@@ -8,8 +8,8 @@
 
 <div align="center">
   <p>
-    Estudante do <b>6º período de Engenharia de Computação na UFS</b> (Universidade Federal de Sergipe) e atuante na <b>Diretoria de RH do Innovation Hub</b> (Liga Acadêmica de Empreendedorismo).<br>
-    Tenho um foco apaixonado por <b>sistemas de baixo nível (C)</b>, <b>arquitetura de computadores</b>, <b>visão computacional aplicada</b> e <b>Sistemas Embarcados / IoT</b>. Desenvolvo projetos que unem rigor matemático, desempenho e impacto real na resolução de problemas de engenharia.
+    Graduando em <b>Engenharia de Computação pela UFS</b> (Universidade Federal de Sergipe).<br>
+    Desenvolvedor com foco em <b>sistemas de baixo nível (C/C++)</b>, <b>arquitetura de computadores</b>, <b>visão computacional aplicada</b> e <b>Sistemas Embarcados / IoT</b>. Busco unir rigor matemático, desempenho e aplicação prática na resolução de desafios de engenharia.
   </p>
 </div>
 
