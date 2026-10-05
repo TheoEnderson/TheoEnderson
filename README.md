@@ -103,7 +103,7 @@
 
 <div align="center">
   <!-- Streak Stats (Frequência de Commits) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheoEnderson&theme=dracula&hide_border=true&background=282a36" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=TheoEnderson&theme=dracula&hide_border=true&background=282a36" width="98%" />
   <br><br>
 
   <!-- Gráfico de Contribuições + Estatísticas Gerais -->
