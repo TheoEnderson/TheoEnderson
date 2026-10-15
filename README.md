@@ -48,15 +48,6 @@ Meus projetos vão da simulação de um processador em C a aplicações desktop,
         <img src="https://img.shields.io/badge/PySide6-282a36?style=flat-square&amp;logo=qt&amp;logoColor=bd93f9" alt="PySide6">
         <img src="https://img.shields.io/badge/GitHub_Actions-282a36?style=flat-square&amp;logo=githubactions&amp;logoColor=bd93f9" alt="GitHub Actions">
       </p>
-      <p align="center">
-        <a href="https://github.com/TheoEnderson/instafollow-analyzer#interface">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheoEnderson/instafollow-analyzer/main/assets/results-dark.png">
-            <img src="https://raw.githubusercontent.com/TheoEnderson/instafollow-analyzer/main/assets/results-light.png" alt="Dashboard real do InstaFollow Analyzer: resumo das relações, busca e tabela de resultados com dados fictícios" width="600">
-          </picture>
-        </a><br>
-        <sub>Interface real do projeto · dados fictícios · clique para explorar</sub>
-      </p>
     </td>
   </tr>
   <tr>
