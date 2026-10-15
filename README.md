@@ -1,142 +1,112 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=750&height=70&duration=4000&lines=Engenharia+de+Computação;Sistemas+Embarcados+%26+IoT;Engenharia+de+Dados+%26+ETL;Visão+Computacional;Baixo+Nível+(C%2FC%2B%2B)&color=bd93f9" alt="Typing SVG" />
-  </a>
-</div>
+<h1 align="center">Théo Enderson</h1>
 
-<h3 align="center">Olá, eu sou Théo Enderson! 👋</h3>
+<p align="center">
+  Graduando em <strong>Engenharia de Computação</strong><br>
+  Universidade Federal de Sergipe · UFS
+</p>
 
-<div align="center">
-  <p>
-    Graduando em <b>Engenharia de Computação pela UFS</b> (Universidade Federal de Sergipe).<br>
-    Desenvolvedor focado em <b>sistemas de baixo nível (C/C++)</b>, <b>arquitetura de computadores</b>, <b>visão computacional aplicada</b>, <b>Sistemas Embarcados / IoT</b> e <b>Engenharia de Dados</b>. Busco unir rigor matemático, desempenho e aplicação prática na resolução de desafios complexos de engenharia.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;size=20&amp;duration=3500&amp;pause=2500&amp;color=8957E5&amp;center=true&amp;vCenter=true&amp;width=440&amp;height=40&amp;lines=Aprender%2C+implementar%2C+entender." alt="Aprender, implementar, entender." width="440">
+</p>
+
+<p align="center">
+  <a href="#sobre-mim">Sobre mim</a> ·
+  <a href="#projetos-em-destaque">Projetos</a> ·
+  <a href="#tecnologias-na-prática">Tecnologias</a> ·
+  <a href="#contato">Contato</a>
+</p>
+
+## Sobre mim
+
+Meus projetos conectam os fundamentos da computação à construção de software: da simulação de um processador em C a aplicações desktop, processamento de dados e integração com hardware.
+
+Tenho interesse acadêmico em programação de baixo nível, arquitetura e organização de computadores, desenvolvimento de software, sistemas embarcados e IoT, visão computacional e engenharia de dados. Exploro essas áreas por meio de estudos e projetos, buscando entender as decisões de implementação e seus limites.
+
+## Projetos em destaque
+
+### [InstaFollow Analyzer](https://github.com/TheoEnderson/instafollow-analyzer)
+
+Aplicação desktop para comparar seguidores e seguindo a partir das exportações oficiais do Instagram. Processa localmente ZIPs ou pastas com JSON e oferece dashboard, busca, ordenação e exportação TXT/CSV.
+
+**Tecnologias:** Python · PySide6 · pytest · PyInstaller · GitHub Actions<br>
+**Diferencial técnico:** lógica de análise separada da interface, validação de arquivos, testes automatizados e CI com análise estática, testes e builds para Windows e Linux.
+
+> Código-fonte público. Os executáveis oficiais ainda não foram publicados devido a verificações pendentes de licenciamento. A análise reflete a exportação recebida e não identifica automaticamente contas excluídas ou desativadas.
+
+### [Poxim-V — Simulador RISC-V](https://github.com/TheoEnderson/ARQUITETURA)
+
+Simulador em C99 que executa instruções RV32I/M e modela registradores, exceções, interrupções em modo máquina e periféricos mapeados em memória.
+
+**Tecnologias:** C · RISC-V · GNU Make<br>
+**Diferencial técnico:** caches L1 separadas para instruções e dados, com substituição LRU e registro de acertos e falhas, aproximando o código dos conceitos de arquitetura de computadores.
+
+### [Engenharia de Dados](https://github.com/TheoEnderson/Engenharia-de-dados)
+
+Projeto acadêmico com portal universitário em Flask e migração de um dump PostgreSQL para MongoDB. Inclui estudos de ETL com Pandas e pipelines Apache Hop para a camada analítica.
+
+**Tecnologias:** Python · SQL · Flask · PostgreSQL · MongoDB · Pandas<br>
+**Diferencial técnico:** migração com validação prévia sem gravação, upserts e testes do parser SQL e das regras de integridade da aplicação.
+
+### [Poker Vision Engine](https://github.com/TheoEnderson/poker-vision-engine)
+
+Assistente de análise de Texas Hold'em que combina reconhecimento visual de cartas, leitura de valores por OCR e estimativas de probabilidade por Monte Carlo.
+
+**Tecnologias:** Python · OpenCV · Tesseract OCR · NumPy<br>
+**Diferencial técnico:** máquina de estados para acompanhar as etapas da mão, com testes de cálculo de probabilidades e regressões de leitura visual.
+
+## Outros projetos
+
+### [Sistema de Presença Biométrico](https://github.com/TheoEnderson/projeto-sensor)
+
+Protótipo com ESP32 e sensor de impressão digital para cadastrar pessoas e registrar presença. Integra portal web local, armazenamento em LittleFS e envio HTTP ao Google Sheets; inclui exemplos separados com MQTT.
+
+**Tecnologias:** C++ · Arduino · ESP32 · LittleFS · HTTP/MQTT<br>
+**Diferencial técnico:** integração entre leitura biométrica por UART, interface de cadastro e armazenamento de registros durante períodos sem Wi-Fi.
+
+### [Estruturas de Dados em C](https://github.com/TheoEnderson/estrutura-de-dados)
+
+Coleção de exercícios com aplicações como dicionário de sinônimos em árvore AVL, indexação de arquivos em árvore B+ e atendimento por fila de prioridade.
+
+**Tecnologias:** C · biblioteca padrão<br>
+**Diferencial técnico:** implementação direta de rotações, divisão de nós e operações de heap, com alocação dinâmica e entrada/saída em arquivos.
+
+## Tecnologias na prática
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-282a36?style=flat&amp;logo=c&amp;logoColor=bd93f9" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-282a36?style=flat&amp;logo=c%2B%2B&amp;logoColor=bd93f9" alt="C++">
+  <img src="https://img.shields.io/badge/Python-282a36?style=flat&amp;logo=python&amp;logoColor=bd93f9" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-282a36?style=flat&amp;logo=postgresql&amp;logoColor=bd93f9" alt="SQL">
+</p>
+
+As ferramentas abaixo aparecem nos projetos apresentados; representam experiências práticas em contextos específicos, com diferentes níveis de aprofundamento.
+
+- **Aplicações e visão computacional:** PySide6, Flask, OpenCV e Tesseract OCR.
+- **Dados:** PostgreSQL, MongoDB, Pandas e Apache Hop.
+- **Sistemas e hardware:** RISC-V, ESP32, Arduino, LittleFS e comunicação HTTP/MQTT.
+- **Qualidade e entrega:** Git, GNU Make, pytest, unittest, Ruff, PyInstaller e GitHub Actions.
+
+Nos projetos com testes automatizados, exercito a validação de entradas, regras de negócio e casos de regressão. No InstaFollow, também separo domínio e interface e automatizo verificações e empacotamento para dois sistemas operacionais.
+
+## Atividade no GitHub
+
+<details>
+  <summary>Ver animação das contribuições</summary>
+
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheoEnderson/TheoEnderson/output/github-contribution-grid-snake-dracula.svg">
+      <img src="https://raw.githubusercontent.com/TheoEnderson/TheoEnderson/output/github-contribution-grid-snake.svg" alt="Animação de uma serpente percorrendo o gráfico de contribuições no GitHub" width="100%">
+    </picture>
   </p>
-</div>
 
-<br>
+  <p align="center"><a href="https://github.com/TheoEnderson/TheoEnderson/actions/workflows/snake.yml">Workflow de atualização da animação</a></p>
+</details>
 
-### 🛠️ Tecnologias & Ferramentas
+## Contato
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%"><b>Linguagens & Core</b></td>
-      <td align="center" width="25%"><b>Sistemas Embarcados & IoT</b></td>
-      <td align="center" width="25%"><b>Dados & Bancos</b></td>
-      <td align="center" width="25%"><b>Ferramentas & DevOps</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <br>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <br><br>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <br><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <br><br>
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-        <br><br>
-      </td>
-      <td align="center">
-        <br>
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" /> <br><br>
-        <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" /> <br><br>
-        <img src="https://img.shields.io/badge/FreeRTOS-20734E?style=for-the-badge&logo=rtos&logoColor=white" /> <br><br>
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-        <br><br>
-      </td>
-      <td align="center">
-        <br>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <br><br>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <br><br>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <br><br>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-        <br><br>
-      </td>
-      <td align="center">
-        <br>
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <br><br>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <br><br>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <br><br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-        <br><br>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-### 🚀 Projetos em Destaque
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h4 align="center"><a href="https://github.com/TheoEnderson/poker-vision-engine">♠️ Poker Vision Engine</a></h4>
-        <p align="center">Assistente autônomo em tempo real para Texas Hold'em. Utiliza OpenCV, Tesseract OCR, Máquina de Estados Finitos (FSM) e simulação de Monte Carlo para cálculo de EV e decisão probabilística.</p>
-      </td>
-      <td width="50%" valign="top">
-        <h4 align="center"><a href="https://github.com/TheoEnderson/ARQUITETURA">🖩 Simulador RISC-V RV32I/M (Poxim-V)</a></h4>
-        <p align="center">Emulador de processador RISC-V desenvolvido em C99 puro, com suporte a instruções RV32I/M, interrupções (M-Mode), periféricos MMIO e emulação de memória Cache L1 com métricas de hit/miss rate.</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h4 align="center"><a href="https://github.com/TheoEnderson/projeto-sensor">🔐 Sistema de Presença Biométrico (IoT)</a></h4>
-        <p align="center">Controle de acesso físico automatizado com ESP32 e sensor biométrico. Implementa arquitetura resiliente com memória Flash (LittleFS) e envio de dados via MQTT/HTTP para nuvem (Supabase e Google Sheets).</p>
-      </td>
-      <td width="50%" valign="top">
-        <h4 align="center"><a href="https://github.com/TheoEnderson/Engenharia-de-dados">📊 Pipeline de Engenharia de Dados</a></h4>
-        <p align="center">Arquitetura de dados ponta a ponta: modelagem relacional OLTP (PostgreSQL), migração NoSQL (MongoDB) e estruturação de Data Warehouse dimensional (OLAP) com pipelines de ETL em Python/Pandas.</p>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" width="100%" valign="top">
-        <h4 align="center"><a href="https://github.com/TheoEnderson/estrutura-de-dados">🌳 Estruturas de Dados em C</a></h4>
-        <p align="center">Implementações modulares em C abordando algoritmos e estruturas essenciais: árvores binárias, tabelas hash, filas, pilhas, grafos e análise assintótica de complexidade.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-### 📊 Estatísticas (GitHub Stats)
-
-<div align="center">
-  <!-- Streak Stats (Frequência de Commits) -->
-  <img src="https://streak-stats.demolab.com/?user=TheoEnderson&theme=dracula&hide_border=true&background=282a36" width="98%" />
-  <br><br>
-
-  <!-- Gráfico de Contribuições + Estatísticas Gerais -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheoEnderson&theme=dracula" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheoEnderson&theme=dracula" width="48%" />
-</div>
-
-<br>
-
-### 🐍 Contribuições (Snake Graph)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheoEnderson/TheoEnderson/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheoEnderson/TheoEnderson/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TheoEnderson/TheoEnderson/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
-<br>
-
-### 📬 Conecte-se comigo
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/théo-enderson-a7786431a" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:endersontheo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/theoenderson" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/th%C3%A9o-enderson-a7786431a"><img src="https://img.shields.io/badge/LinkedIn-282a36?style=flat&amp;logoColor=bd93f9" alt="LinkedIn"></a>
+  <a href="mailto:endersontheo@gmail.com"><img src="https://img.shields.io/badge/E--mail-282a36?style=flat&amp;logo=gmail&amp;logoColor=bd93f9" alt="E-mail"></a>
+  <a href="https://instagram.com/theoenderson"><img src="https://img.shields.io/badge/Instagram-282a36?style=flat&amp;logo=instagram&amp;logoColor=bd93f9" alt="Instagram"></a>
+</p>
