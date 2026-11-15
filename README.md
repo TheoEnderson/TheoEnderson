@@ -40,9 +40,9 @@ Meus projetos vão da simulação de um processador em C a aplicações full-sta
         <img src="https://img.shields.io/badge/01-ANDROID_%2B_WEB-7c4ec4?style=for-the-badge&amp;labelColor=282a36" alt="01 · Android + web" height="18">
       </p>
       <h3><a href="https://github.com/TheoEnderson/poker-table">Poker Table ↗</a></h3>
-      <p><strong>Cartas físicas, fichas virtuais e uma mesa conectada.</strong> Aplicação para partidas presenciais de Texas Hold'em, com jogadores, posições, blinds, apostas e potes sincronizados via Socket.IO na rede Wi-Fi ou hotspot, sem internet externa.</p>
+      <p><strong>Cartas físicas ou virtuais, fichas sincronizadas e uma mesa conectada.</strong> Aplicação para partidas presenciais de Texas Hold'em na rede Wi-Fi ou hotspot, sem internet externa — com suporte a baralho físico ou distribuição virtual criptográfica, indicador ao vivo da melhor combinação, avanço automático de <em>streets</em> e resolução determinística de <em>showdown</em> e <em>side pots</em>.</p>
       <p><strong>O próprio Android hospeda a partida:</strong> servidor Node.js integrado com Kotlin e C++/JNI, persistência SQLite e interface React com TypeScript. Também pode ser hospedada no computador; os convidados entram pelo navegador.</p>
-      <p><a href="https://github.com/TheoEnderson/poker-table/releases/tag/v0.2.0"><strong>APK oficial · v0.2.0 ↗</strong></a> · Android 8.0+ (ARM64).</p>
+      <p><a href="https://github.com/TheoEnderson/poker-table/releases/tag/v0.4.1"><strong>APK oficial · v0.4.1 ↗</strong></a> · Android 8.0+ (ARM64).</p>
       <p>
         <img src="https://img.shields.io/badge/React-282a36?style=flat-square&amp;logo=react&amp;logoColor=bd93f9" alt="React">
         <img src="https://img.shields.io/badge/TypeScript-282a36?style=flat-square&amp;logo=typescript&amp;logoColor=bd93f9" alt="TypeScript">
